@@ -1,0 +1,58 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": [
+        "src/*"
+      ],
+      "@components/*": [
+        "src/components/*"
+      ],
+      "@pages/*": [
+        "src/pages/*"
+      ],
+      "@hooks/*": [
+        "src/hooks/*"
+      ],
+      "@stores/*": [
+        "src/stores/*"
+      ],
+      "@apis/*": [
+        "src/apis/*"
+      ],
+      "@utils/*": [
+        "src/utils/*"
+      ],
+      "@dAssets/*": [
+        "src/sassAssets/*"
+      ],
+      "@assets/*": [
+        "src/assets/*"
+      ],
+      "@icons/*": [
+        "src/icons/*"
+      ],
+      "@data/*": [
+        "src/data/*"
+      ],
+      "@layout/*": [
+        "src/layout/*"
+      ],
+      "@redux/*": [
+        "src/redux/*"
+      ],
+      "@shared/*": [
+        "src/shared/*"
+      ],
+      "@router/*": [
+        "src/router/*"
+      ],
+      "@themes/*": [
+        "src/themes/*"
+      ],
+      "@wasm/*": [
+        "src/wasm/*"
+      ]
+    }
+  }
+}
